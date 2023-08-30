@@ -1,1 +1,1 @@
-A Midjourney and DALL E Clone
+A Midjourney and DALL-E Clone
